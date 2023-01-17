@@ -1,4 +1,4 @@
-FROM kalilinux/kali-rolling
+FROM ubuntu:20.04
 EXPOSE 8080
 
 RUN apt update -y
